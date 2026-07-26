@@ -1,0 +1,1 @@
+# Erros can not be handled, exceptions can be handled at run time

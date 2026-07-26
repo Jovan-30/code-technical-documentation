@@ -1,0 +1,32 @@
+-------------------------------
+See also
+Text Sequence Type — str
+Strings are examples of sequence types, and support the common operations supported by such types.
+
+String Methods
+Strings support a large number of methods for basic transformations and searching.
+
+Formatted string literals
+String literals that have embedded expressions.
+
+Format String Syntax
+Information about string formatting with str.format().
+
+printf-style String Formatting
+The old formatting operations invoked when strings are the left operand of the % operator are described in more detail here.
+------------------------------
+https://docs.python.org/3/library/functions.html#enumerate
+Enumerate
+------------------------------
+https://docs.python.org/3/reference/simple_stmts.html#global
+
+Global and nonlocal python
+---------------------------------
+Call by Value
+Call by Reference
+Shallow Copies vs Deep Copies[:] copy method
+Nested For Loop
+
+Mmebership, in, containes, omparing == < > has etc. for sets, dicts, lists 5.7 5.8
+--------------------------------
+Erros and expetions chapter

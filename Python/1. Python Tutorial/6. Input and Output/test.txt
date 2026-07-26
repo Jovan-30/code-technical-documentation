@@ -1,0 +1,3 @@
+This is my file - line 1
+Yes, this is my file - line 2
+Ya, this is moi file - line 3
